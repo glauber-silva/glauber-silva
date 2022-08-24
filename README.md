@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: glauber.lucio.silva@gmail.com
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glauber-silva&count_private=true&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=onedark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glauber-silva&layout=compact&theme=onedark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
