@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on private project built in Python/Django
+- 🔭 I’m currently working on private project built in Python
 - 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate if you have a great a idea.
 - 📫 How to reach me: glauber.lucio.silva@gmail.com
